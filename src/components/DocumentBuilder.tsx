@@ -166,7 +166,7 @@ const DocumentBuilder: React.FC<DocumentBuilderProps> = ({
           color: '#000000',
           width: 150,
           height: 100,
-          src: 'https://images.unsplash.com/photo-1649972904349-6e44c42644a7?w=200&h=150&fit=crop'
+          src: '../../public/uploadpngplaceholder.png'
         };
         break;
       case 'emoji':
